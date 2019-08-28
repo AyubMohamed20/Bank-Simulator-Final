@@ -1,0 +1,5 @@
+S John Doe 1001 john@john.com 1000.0
+C Jacob John 1002 jacob@jacob.com 2000.0
+S Anu Thomas 1003 anu@anu.com 3000.0
+C Nicole James 1004 nicole@nicole.com 4000.0
+S Sam George 1005 sam@sam.com 5000.0
